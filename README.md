@@ -2,8 +2,8 @@
 
 This Tool Is Made For Education Purpose Only
 
-Use Of This Tool
-We can hear news of data breaches daily. So, with this tool you can check if your account have been pwned or not if yes than you can see what are the information that are breached and from where they got breach. Now with the new update you can also see the breached password associated your email address.
+Use Of This Tool:
+We can see news of data breaches when you want. So, with this tool you can check if your account have been pwned or not.
 
 Requirements
 
