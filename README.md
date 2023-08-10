@@ -1,3 +1,5 @@
+###NOT MANTAINED
+
 # Zacky_mail_checker
 
 This Tool Is Made For Education Purpose Only
